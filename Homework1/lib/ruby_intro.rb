@@ -3,7 +3,11 @@
 
 def sum arr
   # YOUR CODE HERE
+  arr.inject(:+)
 end
+
+puts sum([1,2,3,4,5])
+
 
 def max_2_sum arr
   # YOUR CODE HERE
