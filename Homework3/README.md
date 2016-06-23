@@ -20,3 +20,9 @@ Some commands used in class:
 Controller names in plural and Model names in singular.
 
 There is no need to re-start the server when there are changes on the code, only time when the server needs to be re-started is when we add gems to the Gemfile.
+
+###Homework
+
+Go to https://github.com/twbs/bootstrap-sass and follow the instructions to add the gem to the project. after all the steps are done, make look good your app by adding classes to html elements.
+
+Take a look into the controller and views to see how the interact between each other.
