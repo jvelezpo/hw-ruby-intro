@@ -25,4 +25,6 @@ There is no need to re-start the server when there are changes on the code, only
 
 Go to https://github.com/twbs/bootstrap-sass and follow the instructions to add the gem to the project. after all the steps are done, make look good your app by adding classes to html elements.
 
+After the gem is installed, you can go here http://getbootstrap.com/css/ and use css from their examples.
+
 Take a look into the controller and views to see how the interact between each other.
