@@ -11,6 +11,8 @@ Some commands used in class:
 
 `rails g model Student name last_name:string age:integer` to generate a new model that maps with a table called student in the database, class Student is the one we use to get the data and interact with it.
 
+`rails g scaffold People name age:integer address` to generate an entire CRUD with its views.
+
 `rake db:migrate` to run the migrations or create the tables in the database that were specified when we created the model.
 
 `rake routes` to see the routes we have in our app.

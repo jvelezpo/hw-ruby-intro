@@ -9,6 +9,8 @@ To go to Homework 2(Sinatra) documentation clic here [Homework 2](https://github
 
 To go to Homework 2(Rails) documentation clic here [Homework 3](https://github.com/jvelezpo/hw-ruby-intro/tree/master/Homework3)
 
+To go to Homework 2(gems) documentation clic here [Homework 4](https://github.com/jvelezpo/hw-ruby-intro/tree/master/Homework4)
+
 ####Pluralsight free for 6 or 3 months
 
 Thanks to visual studio people 

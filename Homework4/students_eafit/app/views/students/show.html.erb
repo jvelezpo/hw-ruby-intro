@@ -1,0 +1,16 @@
+<div class="row">
+  <div class="col-md-8">
+    <h1>
+      <%= @student.name.titleize + " " + @student.last_name %>
+      <small>Member since <%= " #{distance_of_time_in_words_to_now(@student.created_at)}" %></small>
+    </h1>
+    <ul class="list-group">
+      <li class="list-group-item"><strong>Name: </strong><%= @student.name %></li>
+      <li class="list-group-item"><strong>Last name: </strong><%= @student.last_name %></li>
+      <li class="list-group-item"><strong>Age: </strong><%= @student.age %></li>
+    </ul>
+    <%= link_to 'Back', students_path, class: 'btn btn-danger-outline ' %>
+    <%= link_to 'Edit', edit_student_path(@student), class: 'btn btn-primary-outline' %>
+    <%= link_to 'Destroy', @student, data: {:confirm => 'Are you sure?'}, :method => :delete, class: 'btn btn-danger-outline' %>
+  </div>
+</div>
