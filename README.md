@@ -21,3 +21,18 @@ Thanks to visual studio people
 3 https://goo.gl/7cXbkC  
 
 4 Pluralsight
+
+####USING PUBLIC RESOURCES
+
+Some of references below.
+
+[Ruby on Rails Tutorial](https://www.railstutorial.org/book)
+
+[Ruby on Rails Guides](http://guides.rubyonrails.org/) on [rubyonrails.org](http://rubyonrails.org/)
+
+[Railscasts](http://railscasts.com/)
+
+[RailsTestingForZombies@CodeSchool](http://www.codeschool.com/courses/rails-testing-for-zombies)
+
+
+As with most languages, the [docs](http://api.rubyonrails.org/) will become your best friend.
