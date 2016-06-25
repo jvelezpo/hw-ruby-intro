@@ -16,6 +16,7 @@
         <%= f.input :name, autofocus: true %>
         <%= f.input :last_name %>
         <%= f.input :age %>
+        <%= f.input :course, collection: Course.all %>
       </div>
     </div>
     <div class="row">

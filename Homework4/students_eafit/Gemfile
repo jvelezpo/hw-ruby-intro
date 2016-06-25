@@ -48,3 +48,4 @@ end
 gem 'bootstrap-sass'
 gem 'devise'
 gem 'simple_form'
+gem 'letter_opener_web', '~> 1.2.0', :group => :development
